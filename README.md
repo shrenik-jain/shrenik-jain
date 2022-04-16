@@ -30,7 +30,7 @@
 
 <br>
 
-* I am a final year of pursuing my Bachelor's focused on Electronics and Telecommunication from [Vishwakarma Institute of Information Technology, Pune](https://www.viit.ac.in/).
+* I am a final year undergrad pursuing my Bachelor's focused on Electronics and Telecommunication from [Vishwakarma Institute of Information Technology, Pune](https://www.viit.ac.in/).
 
 * I am a passionate and enthusiastic student seeking opportunities to utilize my technical knowledge and analytical skills for data-driven decision making and Machine Learning tasks.
 
