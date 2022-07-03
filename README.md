@@ -30,17 +30,17 @@
 
 <br>
 
-* I am a final year undergrad pursuing my Bachelor's focused on Electronics and Telecommunication from [Vishwakarma Institute of Information Technology, Pune](https://www.viit.ac.in/).
+* I am a recent undergrad from [Vishwakarma Institute of Information Technology, Pune](https://www.viit.ac.in/) with my Bachelor's focused on Electronics and Telecommunication.
 
 * I am a passionate and enthusiastic student seeking opportunities to utilize my technical knowledge and analytical skills for data-driven decision making and Machine Learning tasks.
 
-* I am currently working as a Software Engineer Intern at [Qualys Inc.](https://www.qualys.com/)
+* I am currently working as a Data Scientist at [Pivotchain Solutions](https://pivotchain.com/)
 
 ***
 ### 🛠 &nbsp;TECH STACKS
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
