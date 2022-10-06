@@ -76,7 +76,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 
 ***
-
+<!--
 ### ⚙️ &nbsp;GITHUB ANALYTICS
 
 <br>
@@ -90,3 +90,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shrenik-jain&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="shrenik-jain" width="445" />
 </p>
+-->
