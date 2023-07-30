@@ -1,7 +1,11 @@
 <p align="center"> <h1 align="center"> SHRENIK JAIN </h1> </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=700&size=23&duration=3000&pause=2000&background=EF6DFF00&width=550&height=70&color=FFFFFF&center=true&lines=++++Hello+And+Welcome+To+My+Github!"></a>
+</p>
+
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=shrenik-jain&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22shrenik-jain" /> 
+  <img src="https://komarev.com/ghpvc/?username=shrenik-jain&label=Profile%20Views&color=blue&style=plastic%22%20alt=%22shrenik-jain" /> 
   <img src="https://img.shields.io/github/followers/shrenik-jain?label=Follow&style=social" />
 </p>
 
