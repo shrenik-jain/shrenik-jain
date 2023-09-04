@@ -34,7 +34,7 @@
 
 <br>
 
-* Check out my <a href="https://drive.google.com/uc?export=download&id=1TgK8t3aRoicHvBAYNSrXooXfOJ5f6C4T"> resume </a> 
+* Check out my <a href="https://drive.google.com/uc?export=download&id=1YE9Csl4OvUzrwNG1qxaDjqfkuR7wdnhH"> resume </a> 
 * Currently working as a Data Scientist at [Pivotchain Solutions](https://pivotchain.com/)
 
 
