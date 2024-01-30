@@ -17,12 +17,12 @@
   <a href="http://www.linkedin.com/in/shrenik-jain-664bb9170">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
   </a>
-  <a href="https://leetcode.com/shrenik-jain/">
+<!--   <a href="https://leetcode.com/shrenik-jain/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/> 
   </a>
   <a href="https://www.hackerrank.com/Shrenik_Jain">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> 
-  </a>
+  </a> -->
   <a href="https://www.instagram.com/shrenik_jainn/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   </a>
@@ -34,8 +34,9 @@
 
 <br>
 
-* Check out my <a href="https://drive.google.com/uc?export=download&id=1YE9Csl4OvUzrwNG1qxaDjqfkuR7wdnhH"> resume </a> 
-* Currently working as a Data Scientist at [Pivotchain Solutions](https://pivotchain.com/)
+* With a strong academic foundation and over 2 years of professional experience in Machine Learning, I bring innovative solutions to the forefront of technology.
+
+* Currently working as a Data Scientist at [Pivotchain Solutions](https://pivotchain.com/), utilizing computer vision to leverage real-time video surveillance.
 
 
 <!--
