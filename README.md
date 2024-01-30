@@ -38,20 +38,16 @@
 
 * Currently working as a Data Scientist at [Pivotchain Solutions](https://pivotchain.com/), utilizing computer vision to leverage real-time video surveillance.
 
-
-<!--
-
-### ⚙️ &nbsp;GITHUB ANALYTICS
-
 <br>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrenik-jain&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="shrenik-jain" width="440" bg_color=#808080/>
-</p>
+<br>
+
+<p align="center"> <h1 align="center"> Github Analytics </h1> </p>
 
 <br>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shrenik-jain&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="shrenik-jain" width="445" />
+<p align="center">
+  <a href="https://github.com/shrenik-jain">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shrenik-jain&theme=radical" alt="Shrenik's GitHub Contribution"/>
+  </a>
 </p>
--->
+
