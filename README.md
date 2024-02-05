@@ -36,7 +36,7 @@
 
 * With a strong academic foundation and over 2 years of professional experience in Machine Learning, I bring innovative solutions to the forefront of technology.
 
-* Currently working as a Data Scientist at [Pivotchain Solutions](https://pivotchain.com/), utilizing computer vision to leverage real-time video surveillance.
+* Currently working as a Data Scientist at [Pivotchain Solutions](https://pivotchain.com/), utilizing computer vision to leverage real-time video surveillance for event and threat recognition.
 
 <br>
 <br>
