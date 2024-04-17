@@ -34,9 +34,11 @@
 
 <br>
 
-* With a strong academic foundation and over 2 years of professional experience in Machine Learning, I bring innovative solutions to the forefront of technology.
+* With a strong academic foundation and more than 2 years of experience in Computer Vision and Natural Language Processing, I develop robust models and algorithms and continuously explore innovative techniques and methodologies to tackle complex problems with precision and effectiveness.
 
-* Currently working as a Data Scientist at [Pivotchain Solutions](https://pivotchain.com/), utilizing computer vision to leverage real-time video surveillance for event and threat recognition.
+* Currently working as a Data Scientist at [Pivotchain Solutions](https://pivotchain.com/), developing computer vision algorithms for security surveillance applications. Specifically, I am involved in the design and implementation of event recognition systems.
+  
+* Previously worked at [Pixstory](https://www.pixstory.com/about/) as a Machine Learning Consultant.
 
 <br>
 <br>
