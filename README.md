@@ -51,6 +51,13 @@
 
 <p align="center">
   <a href="https://github.com/shrenik-jain">
+    <img src="https://github-readme-stats.vercel.app/api?username=shrenik-jain&show_icons=true&locale=en&theme=radical" alt="Shrenik's GitHub Stats" />
+  </a>
+
+  <br>
+  <br>
+  
+  <a href="https://github.com/shrenik-jain">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shrenik-jain&theme=radical" alt="Shrenik's GitHub Contribution"/>
   </a>
 </p>
