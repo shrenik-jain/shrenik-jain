@@ -34,11 +34,13 @@
 
 <br>
 
-* With a strong academic foundation and more than 2 years of experience in Computer Vision and Natural Language Processing, I develop robust models and algorithms and continuously explore innovative techniques and methodologies to tackle complex problems with precision and effectiveness.
+* With a strong academic foundation and over <b>3 years</b> of professional experience in <b>Computer Vision</b> and <b>Natural Language Processing</b>, I develop robust models and algorithms and continuously explore innovative techniques and methodologies to tackle complex problems with precision and effectiveness.
 
-* Currently working as a Data Scientist at [Pivotchain Solutions](https://pivotchain.com/), developing computer vision algorithms for security surveillance applications. Specifically, I am involved in the design and implementation of event recognition systems.
+* Currently heading Machine Learning at <b>[Pivotchain Solutions](https://pivotchain.com/)</b>, utilizing <b>Computer Vision</b> for real-time video surveillance and malicious event identification across defense, banking, and government sectors.
   
-* Previously worked at [Pixstory](https://www.pixstory.com/about/) as a Machine Learning Consultant.
+* Previously worked at <b>[Pixstory](https://www.pixstory.com/about/)</b> in <b>Natural Language Processing</b> and <b>Large Language Models</b>.
+
+* Check my <b>[website](https://shrenik-jain.github.io/)</b> for more details!
 
 <br>
 <br>
