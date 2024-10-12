@@ -32,7 +32,7 @@
   
 </p>
 
-<be>
+<br>
 
 * Contributing to the <b>[Cosman Lab](http://code.ucsd.edu/pcosman/)</b> as an <b>Applied Research Engineer</b> spearheading various video compression techniques using <b>Large Language Models</b>.
 
