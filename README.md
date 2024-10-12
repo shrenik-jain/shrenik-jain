@@ -32,15 +32,13 @@
   
 </p>
 
-<br>
+<be>
 
-* With a strong academic foundation and over <b>3 years</b> of professional experience in <b>Computer Vision</b> and <b>Natural Language Processing</b>, I develop robust models and algorithms and continuously explore innovative techniques and methodologies to tackle complex problems with precision and effectiveness.
+* Contributing to the <b>[Cosman Lab](http://code.ucsd.edu/pcosman/)</b> as an <b>Applied Research Engineer</b> spearheading various video compression techniques using <b>Large Language Models</b>.
 
-* Currently heading Machine Learning at <b>[Pivotchain Solutions](https://pivotchain.com/)</b>, utilizing <b>Computer Vision</b> for real-time video surveillance and malicious event identification across defense, banking, and government sectors.
-  
-* Previously worked at <b>[Pixstory](https://www.pixstory.com/about/)</b> in <b>Natural Language Processing</b> and <b>Large Language Models</b>.
+* Previously headed Machine Learning at <b>[Pivotchain Solutions](https://pivotchain.com/)</b>, utilizing <b>Computer Vision</b> for autonomous event monitoring and identification across defense, banking, and government sectors. Also worked at <b>[Pixstory](https://www.pixstory.com/about/)</b> in <b>Natural Language Processing</b> and <b>Large Language Models</b>.
 
-* Check my <b>[website](https://shrenik-jain.github.io/)</b> for more details!
+* Visit my <b>[website](https://shrenik-jain.github.io/)</b> for more details!
 
 <br>
 <br>
