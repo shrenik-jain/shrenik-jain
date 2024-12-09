@@ -34,11 +34,11 @@
 
 <br>
 
-* Contributing to the <b>[Cosman Lab](http://code.ucsd.edu/pcosman/)</b> as an <b>Applied Research Engineer</b> spearheading various video compression techniques using <b>Large Language Models</b>.
+* Contributing to the <b title="Visit">[Cosman Lab](http://code.ucsd.edu/pcosman/)</b> as an <b>Applied Research Engineer</b> developing ROI-based video compression algorithms using <b>Vision Transformers</b>.
 
-* Previously headed Machine Learning at <b>[Pivotchain Solutions](https://pivotchain.com/)</b>, utilizing <b>Computer Vision</b> for autonomous event monitoring and identification across defense, banking, and government sectors. Also worked at <b>[Pixstory](https://www.pixstory.com/about/)</b> in <b>Natural Language Processing</b> and <b>Large Language Models</b>.
+* Previously headed Machine Learning at <b title="Visit">[Pivotchain Solutions](https://pivotchain.com/)</b>, utilizing <b>Computer Vision</b> for autonomous event monitoring and identification across defense, banking, and government sectors. Also worked at <b title="Visit">[Pixstory](https://www.pixstory.com/about/)</b> in <b>Natural Language Processing</b> and <b>Large Language Models</b>.
 
-* Visit my <b>[website](https://shrenik-jain.github.io/)</b> for more details!
+* Visit my <b title="Visit">[website](https://shrenik-jain.github.io/)</b> for more details!
 
 <br>
 <br>
