@@ -6,15 +6,15 @@
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=shrenik-jain&label=Profile%20Views&color=blue&style=plastic%22%20alt=%22shrenik-jain" /> 
-  <img src="https://img.shields.io/github/followers/shrenik-jain?label=Follow&style=social" />
+  <img title="Follow" src="https://img.shields.io/github/followers/shrenik-jain?label=Follow&style=social" />
 </p>
 
 <p align="center">
   
-   <a href="https://shrenik-jain.github.io/">
+   <a title="View" href="https://shrenik-jain.github.io/">
     <img src="https://img.shields.io/badge/Website-595959?style=for-the-badge&logo=Google-Chrome&logoColor=white"/> 
   </a>
-  <a href="http://www.linkedin.com/in/shrenik-jain-664bb9170">
+  <a title="View" href="http://www.linkedin.com/in/shrenik-jain-664bb9170">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
   </a>
 <!--   <a href="https://leetcode.com/shrenik-jain/">
@@ -23,10 +23,10 @@
   <a href="https://www.hackerrank.com/Shrenik_Jain">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> 
   </a> -->
-  <a href="https://www.instagram.com/shrenik_jainn/">
+  <a title="View" href="https://www.instagram.com/shrenik_jainn/">
     <img src="https://img.shields.io/badge/Instagram-595959?style=for-the-badge&logo=instagram&logoColor=white"/> 
   </a>
-  <a href="mailto:shrenikkjain81@gmail.com">
+  <a title="Email" href="mailto:shrenikkjain81@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=white"/> 
   </a>
   
