@@ -1,5 +1,9 @@
 <p align="center"> <h1 align="center"> SHRENIK JAIN </h1> </p>
 
+<div align="center"><h3>Hello and Welcome To My Github!</h3></div>
+
+<br>
+
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=shrenik-jain&label=Profile%20Views&color=blue&style=plastic%22%20alt=%22shrenik-jain" /> 
   <img title="Follow" src="https://img.shields.io/github/followers/shrenik-jain?label=Follow&style=social" />
@@ -30,7 +34,7 @@
 
 <br>
 
-* Contributing to <b title="Visit">[Spatiotemporal Machine Learning Lab](https://roselab1.ucsd.edu/)</b> as an Applied Researcher in <b>Diffusion Models</b>.
+* Contributing to <b title="Visit">[Spatiotemporal Machine Learning Lab](https://roselab1.ucsd.edu/)</b> as a Machine Learning Researcher in <b>Diffusion Models</b>.
 
 <!-- * Contributing to the <b title="Visit">[Cosman Lab](http://code.ucsd.edu/pcosman/)</b> as an <b>Applied Research Engineer</b> developing ROI-based video compression algorithms using <b>Vision Transformers</b>. -->
 
