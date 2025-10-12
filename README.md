@@ -1,6 +1,6 @@
+<!-- Header Block Start -->
 <p align="center"> <h1 align="center"> SHRENIK JAIN </h1> </p>
 <h3 align="center">Hello and Welcome to My Github!  👋</h3>
-
 <br>
 
 <p align="center"> 
@@ -8,30 +8,30 @@
   <img title="Follow" src="https://img.shields.io/github/followers/shrenik-jain?label=Follow&style=social"/>&nbsp;&nbsp;
 </p>
 
+<!-- Giphy Section -->
 <div align="center">
-<img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img  src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" />
+  <img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img  src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" />
 </div>
+<!-- Giphy Section End -->
 
-<!-- <p align="center">
-  <a href="https://github.com/imakash3011"><img alt="github" width="8%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
-	<a href="https://www.linkedin.com/in/imakash3011/"><img alt="linkedin" width="8%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="https://www.facebook.com/imakash3011/"><img alt="facebook" width="8%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/chrome.png"/></a>
-	<a href="https://www.instagram.com/imakash3011/"><img alt="instagram" width="8%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
-  <a href="https://www.instagram.com/imakash3011/"><img alt="instagram" width="8%" style="padding:5px" src="https://github.com/user-attachments/assets/61d9c74c-e4df-41b3-ad6a-83d6c6663a6e"/></a>
-</p> -->
+<br>
 
+<!-- Social Links Section -->
 <p align="center">
   <a title="View" href="https://shrenik-jain.github.io/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>&nbsp;&nbsp;
   <a title="View" href="http://www.linkedin.com/in/shrenik-jain9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
   <a title="View" href="https://www.instagram.com/shrenik_jainn/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;&nbsp;
   <a title="Email" href="mailto:shrenikkjain81@gmail.com"><img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;&nbsp;
 </p>
+<!-- Social Links Section End -->
 
 <br>
 <h3 align="center">Machine Learning Engineer with 4 years of experience in building Large-Scale models for Visual Intelligence</h3>
 
 ---
+<!-- Header Block End -->
 
+<!-- Introduction Block Start -->
 <p>
 Presently, advancing large-scale visual intelligence at <a href="https://sonyinteractive.com/en/">Sony PlayStation</a>, building models that power the gameplay experience for 120M+ users worldwide. My work focuses on super-resolution and removing compression artifacts, leveraging deep generative architectures and neural image restoration pipelines to deliver ultra-low-latency inference at scale.
 
@@ -39,10 +39,12 @@ At UC San Diego’s <a href="https://roselab1.ucsd.edu/">Spatiotemporal Machine 
 
 Curious about my work? Explore more on my <a href="https://shrenik-jain.github.io/">website</a>.
 </p>
+<!-- Introduction Block End -->
 
 <br>
 <br>
 
+<!-- Meeting Scheduling Section -->
 <p align="center"> <h1 align="center"> Let Schedule a Meeting! ☎ </h1> </p>
 <br>
 <p align="center">
@@ -50,14 +52,14 @@ Curious about my work? Explore more on my <a href="https://shrenik-jain.github.i
     <img src="https://images.ctfassets.net/k0lk9kiuza3o/35mQcfIgLCzbAY5AL4Q32B/de3e4fdad8ea1d6625850321dd6b0990/calendar-connections-full-width.png?q=85&fm=webp" alt="Calendar Connections" width="350">
   </a>
 </p>
+<!-- Meeting Scheduling Section End -->
 
 <br>
 <br>
 
+<!-- Github Analytics Section -->
 <p align="center"> <h1 align="center"> Github Analytics </h1> </p>
-
 <br>
-
 <p align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
@@ -71,4 +73,4 @@ Curious about my work? Explore more on my <a href="https://shrenik-jain.github.i
   <br>
   <a href="https://github.com/shrenik-jain"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shrenik-jain&theme=radical" alt="Shrenik's GitHub Contribution"/></a>
 </p>
-
+<!-- Github Analytics Section End -->
