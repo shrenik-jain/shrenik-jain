@@ -45,7 +45,8 @@ Curious about my work? Explore more on my <a href="https://shrenik-jain.github.i
 <br>
 
 <!-- Meeting Scheduling Section -->
-<p align="center"> <h1 align="center"> Let Schedule a Meeting! ☎ </h1> </p>
+<p align="center"> <h1 align="center"> Let Schedule a Meeting! ☎ </h1></p>
+<p>If you’re a recruiter or hiring manager with potential opportunities, or someone interested in collaborating and exchanging ideas, I’d be delighted to connect. Feel free to schedule a meeting with me. You can also reach out via email at <a href="mailto:shrenikkjain81@gmail.com">shrenikkjain81@gmail.com</a>.</p>
 <br>
 <p align="center">
   <a href="https://calendly.com/shrenikkjain" target="_blank">
@@ -58,8 +59,7 @@ Curious about my work? Explore more on my <a href="https://shrenik-jain.github.i
 <br>
 
 <!-- Github Analytics Section -->
-<p align="center"> <h1 align="center"> Github Analytics </h1> </p>
-<br>
+<p align="center"> <h1 align="center"> Github Analytics </h1></p>
 <p align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
