@@ -48,7 +48,6 @@ Curious about my work? Explore more on my <a href="https://shrenik-jain.github.i
 <p align="center"> <h1 align="center"> Let Schedule a Meeting! ☎ </h1> </p>
 <br>
 <p align="center">
-  <!-- <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/shrenikkjain/30min'});return false;"> -->
   <a href="https://calendly.com/shrenikkjain" target="_blank">
     <img src="https://images.ctfassets.net/k0lk9kiuza3o/35mQcfIgLCzbAY5AL4Q32B/de3e4fdad8ea1d6625850321dd6b0990/calendar-connections-full-width.png?q=85&fm=webp" alt="Calendar Connections" width="350">
   </a>
