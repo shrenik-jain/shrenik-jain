@@ -1,46 +1,55 @@
 <p align="center"> <h1 align="center"> SHRENIK JAIN </h1> </p>
-
-<div align="center"><h3>Hello and Welcome To My Github!</h3></div>
+<h3 align="center">Hello and Welcome to My Github!  👋</h3>
 
 <br>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=shrenik-jain&label=Profile%20Views&color=blue&style=plastic%22%20alt=%22shrenik-jain" /> 
-  <img title="Follow" src="https://img.shields.io/github/followers/shrenik-jain?label=Follow&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=shrenik-jain&label=Profile%20Views&color=blue&style=plastic%22%20alt=%22shrenik-jain"/>&nbsp;&nbsp;
+  <img title="Follow" src="https://img.shields.io/github/followers/shrenik-jain?label=Follow&style=social"/>&nbsp;&nbsp;
 </p>
 
+<div align="center">
+<img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img  src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" /><img src="https://i.giphy.com/media/xUA7bewHfD6pAnmxVK/200w.webp" alt="" width="160" />
+</div>
+
+<!-- <p align="center">
+  <a href="https://github.com/imakash3011"><img alt="github" width="8%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
+	<a href="https://www.linkedin.com/in/imakash3011/"><img alt="linkedin" width="8%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://www.facebook.com/imakash3011/"><img alt="facebook" width="8%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/chrome.png"/></a>
+	<a href="https://www.instagram.com/imakash3011/"><img alt="instagram" width="8%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+  <a href="https://www.instagram.com/imakash3011/"><img alt="instagram" width="8%" style="padding:5px" src="https://github.com/user-attachments/assets/61d9c74c-e4df-41b3-ad6a-83d6c6663a6e"/></a>
+</p> -->
+
 <p align="center">
-  
-   <a title="View" href="https://shrenik-jain.github.io/">
-    <img src="https://img.shields.io/badge/Website-595959?style=for-the-badge&logo=Google-Chrome&logoColor=white"/> 
-  </a>
-  <a title="View" href="http://www.linkedin.com/in/shrenik-jain-664bb9170">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
-  </a>
-<!--   <a href="https://leetcode.com/shrenik-jain/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/> 
-  </a>
-  <a href="https://www.hackerrank.com/Shrenik_Jain">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> 
-  </a> -->
-  <a title="View" href="https://www.instagram.com/shrenik_jainn/">
-    <img src="https://img.shields.io/badge/Instagram-595959?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  </a>
-  <a title="Email" href="mailto:shrenikkjain81@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=white"/> 
-  </a>
-  
+  <a title="View" href="https://shrenik-jain.github.io/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>&nbsp;&nbsp;
+  <a title="View" href="http://www.linkedin.com/in/shrenik-jain9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
+  <a title="View" href="https://www.instagram.com/shrenik_jainn/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;&nbsp;
+  <a title="Email" href="mailto:shrenikkjain81@gmail.com"><img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;&nbsp;
 </p>
 
 <br>
+<h3 align="center">Machine Learning Engineer with 4 years of experience in building Large-Scale models for Visual Intelligence</h3>
 
-* Contributing to <b title="Visit">[Spatiotemporal Machine Learning Lab](https://roselab1.ucsd.edu/)</b> as a Machine Learning Researcher in <b>Diffusion Models</b>.
+---
 
-<!-- * Contributing to the <b title="Visit">[Cosman Lab](http://code.ucsd.edu/pcosman/)</b> as an <b>Applied Research Engineer</b> developing ROI-based video compression algorithms using <b>Vision Transformers</b>. -->
+<p>
+Presently, advancing large-scale visual intelligence at <a href="https://sonyinteractive.com/en/">Sony PlayStation</a>, building models that power the gameplay experience for 120M+ users worldwide. My work focuses on super-resolution and removing compression artifacts, leveraging deep generative architectures and neural image restoration pipelines to deliver ultra-low-latency inference at scale.
 
-* Previously headed Machine Learning at <b title="Visit">[Pivotchain Solutions](https://pivotchain.com/)</b>, utilizing <b>Computer Vision</b> for autonomous and real-time event monitoring and identification for threat containment. Also worked at <b title="Visit">[Pixstory](https://www.pixstory.com/about/)</b> in <b>Natural Language Processing</b> and <b>Large Language Models</b>.
+At UC San Diego’s <a href="https://roselab1.ucsd.edu/">Spatiotemporal Machine Learning Lab</a>, I contribute as an Applied Researcher to model uncertainty quantification and stochastic representation of geophysical processes. This involves designing probabilistic deep learning frameworks (like Diffusion) and running large-scale distributed training experiments across multi-node GPU clusters for pre-training and supervised fine-tuning (SFT).
 
-* Visit my <b title="Visit">[website](https://shrenik-jain.github.io/)</b> for more details!
+Curious about my work? Explore more on my <a href="https://shrenik-jain.github.io/">website</a>.
+</p>
+
+<br>
+<br>
+
+<p align="center"> <h1 align="center"> Let Schedule a Meeting! ☎ </h1> </p>
+<br>
+<p align="center">
+  <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/shrenikkjain/30min'});return false;">
+    <img src="https://images.ctfassets.net/k0lk9kiuza3o/35mQcfIgLCzbAY5AL4Q32B/de3e4fdad8ea1d6625850321dd6b0990/calendar-connections-full-width.png?q=85&fm=webp" alt="Calendar Connections" width="350">
+  </a>
+</p>
 
 <br>
 <br>
@@ -50,15 +59,16 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/shrenik-jain">
-    <img src="https://github-readme-stats.vercel.app/api?username=shrenik-jain&show_icons=true&locale=en&theme=radical" alt="Shrenik's GitHub Stats" />
-  </a>
-
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
   <br>
   <br>
-  
-  <a href="https://github.com/shrenik-jain">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shrenik-jain&theme=radical" alt="Shrenik's GitHub Contribution"/>
-  </a>
+  <a href="https://github.com/shrenik-jain"><img src="https://github-readme-stats.vercel.app/api?username=shrenik-jain&show_icons=true&locale=en&theme=radical" alt="Shrenik's GitHub Stats"/></a>
+  <br>
+  <br>
+  <a href="https://github.com/shrenik-jain"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shrenik-jain&theme=radical" alt="Shrenik's GitHub Contribution"/></a>
 </p>
 
