@@ -21,7 +21,7 @@
   <a title="View" href="https://shrenik-jain.github.io/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>&nbsp;&nbsp;
   <a title="View" href="http://www.linkedin.com/in/shrenik-jain9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
   <a title="View" href="https://www.instagram.com/shrenik_jainn/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;&nbsp;
-  <a title="Email" href="mailto:shrenikkjain81@gmail.com"><img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;&nbsp;
+  <a title="View" href="https://x.com/shrenik_jainn"><img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;&nbsp;
 </p>
 <!-- Social Links Section End -->
 
